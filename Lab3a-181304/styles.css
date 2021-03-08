@@ -1,0 +1,94 @@
+
+
+body {
+    font-family: 'Merriweather', "Times New Roman", sans-serif, serif;
+    background-image: url(images/art-background4.jpg);
+    background-size: 100% 100%;
+    width: auto;
+    height: auto;
+}
+
+header {
+    background-color: rgba(33, 33, 33, 0.5);
+    box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
+    color: white;
+    width: 380px;
+    height: 60px;
+    padding: 1em 0em 0em 1em;
+    margin: 15px 0px 100px 15px;
+    line-height: .5;
+}
+
+body header h1 {
+    font-size: 50px;
+}
+
+#p1 {
+    font-size: 12px;
+}
+
+h1, h1 p {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+table {
+    box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
+    border-collapse: collapse;
+    width: 400px;
+    height: auto;
+    margin: 0px 0px 30px 15px;
+}
+
+#trow1 {
+    background-color: rgba(224, 224, 224, 0.5);
+    text-align: left;
+}
+
+th {
+    padding: 15px 10px 15px 10px;
+    font-size: x-large;
+}
+
+#span1 {
+    background-color: rgba(66, 66, 66, 0.5);
+    padding: 13px 15px 13px 10px;
+}
+
+#span2 {
+    color: rgb(155, 11, 11);
+}
+
+#trow2 {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+#p2, h4 {
+    color: white;
+}
+
+small {
+    color: brown;
+    line-height: 4;
+}
+
+table tr td {
+    padding: 5px 0px 1px 10px;
+}
+
+#footer {
+    background-color: rgba(33, 33, 33, 0.5);
+    box-shadow: 10px 10px 5px rgb(0, 0, 0, 0.5);
+    width: 380px;
+    padding: 5px 10px 15px 10px;
+    margin: 0px 0px 100px 15px;
+}
+
+#h4 {
+    line-height: 0.1;
+}
+
+img {
+    border: solid 1px white;
+    padding: 5px;
+}
